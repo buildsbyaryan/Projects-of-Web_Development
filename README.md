@@ -1,77 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Todo Web App</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            padding: 20px;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-
- h1 {
-            background-color: #007bff;
-            color: white;
-            padding: 10px 20px;
-            border-radius: 5px;
-        }
-
-h2 {
-            margin-top: 20px;
-            font-size: 1.2em;
-        }
- p {
-            margin-bottom: 10px;
-        }
-        pre {
-            background-color: #f8f9fa;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        ul {
-            list-style-type: disc;
-            margin-bottom: 20px;
-            padding-left: 20px;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .code-block {
-            margin-bottom: 20px;
-        }
-        .code-title {
-            background-color: #343a40;
-            color: white;
-            padding: 5px 10px;
-            border-top-left-radius: 5px;
-            border-top-right-radius: 5px;
-            font-size: 0.9em;
-        }
-        .code-content {
-            background-color: #f8f9fa;
-            padding: 10px;
-            border-bottom-left-radius: 5px;
-            border-bottom-right-radius: 5px;
-            overflow-x: auto;
-            font-size: 0.9em;
-        }
-    </style>
-</head>
-
-
 <h1>Todo Web App</h1>
 <section>
         <h2>Technologies Used</h2>
@@ -97,7 +23,7 @@ h2 {
  <div class="code-block">
             <div class="code-title">Clone the repository:</div>
             <div class="code-content">
-                <pre>git clone https://github.com/your_username/todo-app.git</pre>
+                <pre>git clone https://github.com/Sharmaaryan555/todo-app.git</pre>
             </div>
 </div>
  <div class="code-block">
@@ -148,27 +74,6 @@ h2 {
             <li>Delete existing todos.</li>
             <li>Simple and intuitive user interface.</li>
         </ul>
-    </section>
-
-<section>
-        <h2>Roadmap</h2>
-        <ul>
-            <li>Implement user authentication.</li>
-            <li>Add due dates and priority levels to todos.</li>
-            <li>Improve UI/UX with animations and responsiveness.</li>
-        </ul>
-    </section>
-
-<section>
-        <h2>Contributing</h2>
-        <p>Contributions are welcome! Follow these steps to contribute:</p>
-        <ol>
-            <li>Fork the project.</li>
-            <li>Create your feature branch (<code>git checkout -b feature/AmazingFeature</code>).</li>
-            <li>Commit your changes (<code>git commit -m 'Add some amazing feature'</code>).</li>
-            <li>Push to the branch (<code>git push origin feature/AmazingFeature</code>).</li>
-            <li>Open a pull request.</li>
-        </ol>
     </section>
 <section>
         <h2>Authors</h2>
