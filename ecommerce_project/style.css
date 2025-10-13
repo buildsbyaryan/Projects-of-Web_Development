@@ -49,5 +49,15 @@ color: #088178;
 
 .header-logo img{
     width: 60px;
+    height: 50px;
+}
 
+.header-list-icon a{
+    color: #1a1a1a;
+    padding-left: 20px;
+    transition: 0.3s ease;
+}
+
+.header-list-icon a:hover{
+    color: #088178;
 }
