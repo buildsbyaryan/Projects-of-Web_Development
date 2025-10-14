@@ -61,3 +61,23 @@ color: #088178;
 .header-list-icon a:hover{
     color: #088178;
 }
+
+.header-list-nav ul li a:hover::after,
+.header-list-nav ul li a:active::after
+{
+   position: absolute;
+   bottom: -4px;
+   left: 20px;
+}
+
+#hero{
+    background-image: url();
+    height: 100vh;
+    width: 100%vh;
+    background-size: cover;
+    flex-direction: column;
+    align-items:flex-start;
+    justify-content: center;
+    padding: 0 80px;
+}
+
