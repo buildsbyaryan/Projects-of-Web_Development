@@ -142,3 +142,28 @@ p{
   color: #088178;
   padding: 14px 65px 14px 65px;
 }
+
+#features{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#features .f-box{
+  width: 180px;
+  text-align: center;
+  padding: 25px 15px;
+  box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
+  border: 1px solid #cce7d0;
+  margin: 15px 0;
+  transition: box-shadow 0.3s ;
+}
+
+#features .f-box:hover{
+  box-shadow: 10 10px 54px rgba(0, 0, 0, 0.1);
+}
+
+#features .f-box img{
+  width: 100%;
+  margin-bottom: 10px;
+}
