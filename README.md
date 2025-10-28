@@ -58,33 +58,31 @@ git clone https://github.com/your-username/aryans-world.git
 ```
 ### 2️⃣ Navigate to the Project Directory
 
-```bash cd aryans-world 
+```bash 
+    cd aryans-world 
 ```
 
  ### 3️⃣ Open in Browser
-
+```bash 
 start index.html 
+```
 
 ### 🔧 Customization Guide
 
 You can modify and enhance this project by:
 
-🛒 Adding new product cards in the Shop section.
-
-🎨 Changing promotional banners, sale text, or hero images.
-
-📰 Updating content in the Blog or About pages.
-
-💬 Connecting the Contact form to a backend or email API.
-
-🧱 Integrating frameworks like React or Next.js for a dynamic experience.
-
-⚙️ Adding animations using AOS or GSAP for smoother transitions.
+<ul>
+    <li>🛒 Adding new product cards in the Shop section.</li>
+    <li>🎨 Changing promotional banners, sale text, or hero images.</li>
+    <li>📰 Updating content in the Blog or About pages.</li>
+    <li>💬 Connecting the Contact form to a backend or email API.</li>
+    <li>🧱 Integrating frameworks like React or Next.js for a dynamic experience.</li>
+    <li>⚙️ Adding animations using AOS or GSAP for smoother transitions.</li>
+</ul>
 
 ### 📦 Deployment
 
-This website is deployed on Vercel
-.
+This website is deployed on <a href="https://vercel.com/aryans-projects-9582d33a">Vercel</a>.
 Push updates to the main branch, and Vercel will automatically redeploy.
 
 To redeploy manually:
@@ -93,12 +91,11 @@ To redeploy manually:
     git add .
     git commit -m "Updated content"
     git push origin main
+```
 
-    ```
+<section>
 
-    <section>
-
-    📄 License
+### 📄 License
 
 This project is based on the Tech2 etc HTML CSS eCommerce Template
 and customized by Aryan Sharma.
