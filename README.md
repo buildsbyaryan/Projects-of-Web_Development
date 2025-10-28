@@ -32,17 +32,22 @@ Live Demo 👉 [https://aryans-world.vercel.app/](https://aryans-world.vercel.ap
 
 ## 📁 Folder Structure
 
+<section id="folder-structure" style="font-family: 'Poppins', sans-serif; margin: 40px;">
+  <h2>📁 Folder Structure</h2>
+  <pre style="background-color: #1e1e1e; color: #dcdcdc; padding: 20px; border-radius: 10px; overflow-x: auto;">
 aryans-world/
-├── index.html # Home page
-├── shop.html # Shop listing page
-├── blog.html # Blog page
-├── about.html # About page
-├── contact.html # Contact page
-├── style.css # Main stylesheet
-├── script.js # (Optional) JS for interactivity
-├── images/ # All website images
-├── fonts/ # Font Awesome or custom fonts
-└── README.md # Project documentation
+├── index.html           # Home page
+├── shop.html            # Shop listing page
+├── blog.html            # Blog page
+├── about.html           # About page
+├── contact.html         # Contact page
+├── style.css            # Main stylesheet
+├── script.js            # Optional JS for interactivity
+├── images/              # All website images
+├── fonts/               # Font Awesome or custom fonts
+└── README.md            # Project documentation
+  </pre>
+</section>
 
 ---
 
@@ -59,7 +64,7 @@ git clone https://github.com/your-username/aryans-world.git
 ### 2️⃣ Navigate to the Project Directory
 
 ```bash 
-    cd aryans-world 
+cd aryans-world 
 ```
 
  ### 3️⃣ Open in Browser
@@ -88,9 +93,9 @@ Push updates to the main branch, and Vercel will automatically redeploy.
 To redeploy manually:
 
 ```bash
-    git add .
-    git commit -m "Updated content"
-    git push origin main
+git add .
+git commit -m "Updated content"
+git push origin main
 ```
 
 <section>
@@ -106,9 +111,9 @@ Please credit the author when redistributing publicly.
 </section>
 <section>
 
-👨‍💻 Author
+### 👨‍💻 Author
 
-Aryan Sharma
+<h4>Aryan Sharma</h4>
 🎓 B.Tech CSE – Panipat Institute of Engineering & Technology, Haryana, India
 📜 Certified in Machine Learning & Ethical Hacking (NPTEL / IIT Kharagpur)
 💼 Passionate about Web Development, App Development, and UI Design.
