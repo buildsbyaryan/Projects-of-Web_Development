@@ -58,15 +58,13 @@ git clone https://github.com/your-username/aryans-world.git
 ```
 ### 2️⃣ Navigate to the Project Directory
 
-cd aryans-world
- ```
- ``` 
+```bash cd aryans-world 
+```
+
  ### 3️⃣ Open in Browser
 
 start index.html 
 
-```
-```
 ### 🔧 Customization Guide
 
 You can modify and enhance this project by:
@@ -83,22 +81,48 @@ You can modify and enhance this project by:
 
 ⚙️ Adding animations using AOS or GSAP for smoother transitions.
 
-```
-```
-### 🔧 Customization
+### 📦 Deployment
 
-You can easily modify and extend this project:
+This website is deployed on Vercel
+.
+Push updates to the main branch, and Vercel will automatically redeploy.
 
-🛍️ Add more product cards in the Shop section.
+To redeploy manually:
 
-🎨 Replace banner images or color themes in style.css.
+```bash
+    git add .
+    git commit -m "Updated content"
+    git push origin main
 
-📰 Update text content in Blog and About pages.
+    ```
 
-📧 Connect Contact Form to an email service or backend.
+    <section>
 
-✨ Add animations using AOS or GSAP.
+    📄 License
 
-🌈 Convert to a dynamic site using React, Next.js, or Node.js.
+This project is based on the Tech2 etc HTML CSS eCommerce Template
+and customized by Aryan Sharma.
 
-```
+🪪 You are free to use, modify, or share for educational or personal purposes.
+Please credit the author when redistributing publicly.
+
+</section>
+<section>
+
+👨‍💻 Author
+
+Aryan Sharma
+🎓 B.Tech CSE – Panipat Institute of Engineering & Technology, Haryana, India
+📜 Certified in Machine Learning & Ethical Hacking (NPTEL / IIT Kharagpur)
+💼 Passionate about Web Development, App Development, and UI Design.
+
+🌐 Portfolio: https://aryans-world.vercel.app/
+
+🐙 GitHub: https://github.com/buildsbyaryan
+
+🔗 LinkedIn: https://linkedin.com/in/aryan-sharma-07
+
+⭐ If you like this project, don’t forget to give it a star on GitHub!
+🖤 Thanks for visiting Aryan’s World!
+
+</section>
