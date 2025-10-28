@@ -30,8 +30,6 @@ Live Demo 👉 [https://aryans-world.vercel.app/](https://aryans-world.vercel.ap
 
 ---
 
-## 📁 Folder Structure
-
 <section id="folder-structure" style="font-family: 'Poppins', sans-serif; margin: 40px;">
   <h2>📁 Folder Structure</h2>
   <pre style="background-color: #1e1e1e; color: #dcdcdc; padding: 20px; border-radius: 10px; overflow-x: auto;">
@@ -104,7 +102,6 @@ git push origin main
 
 This project is based on the Tech2 etc HTML CSS eCommerce Template
 and customized by Aryan Sharma.
-
 🪪 You are free to use, modify, or share for educational or personal purposes.
 Please credit the author when redistributing publicly.
 
@@ -114,9 +111,11 @@ Please credit the author when redistributing publicly.
 ### 👨‍💻 Author
 
 <h4>Aryan Sharma</h4>
-🎓 B.Tech CSE – Panipat Institute of Engineering & Technology, Haryana, India
-📜 Certified in Machine Learning & Ethical Hacking (NPTEL / IIT Kharagpur)
-💼 Passionate about Web Development, App Development, and UI Design.
+<ul style="list-style: none; padding-left: 0; font-family: 'Poppins', sans-serif; line-height: 1.8;">
+  <li>🎓 B.Tech CSE – Panipat Institute of Engineering & Technology, Haryana, India</li>
+  <li>📜 Certified in Machine Learning & Ethical Hacking (NPTEL / IIT Kharagpur)</li>
+  <li>💼 Passionate about Web Development, App Development, and UI Design.</li>
+</ul>
 
 🌐 Portfolio: https://aryans-world.vercel.app/
 
