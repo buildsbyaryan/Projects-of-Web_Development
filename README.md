@@ -55,6 +55,24 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/your-username/aryans-world.git
 
-2️⃣ Navigate into the Directory
 cd aryans-world
+
+start index.html
+
+
+🔧 Customization Guide
+
+You can modify and enhance this project by:
+
+🛒 Adding new product cards in the Shop section.
+
+🎨 Changing promotional banners, sale text, or hero images.
+
+📰 Updating content in the Blog or About pages.
+
+💬 Connecting the Contact form to a backend or email API.
+
+🧱 Integrating frameworks like React or Next.js for a dynamic experience.
+
+⚙️ Adding animations using AOS or GSAP for smoother transitions.
 
