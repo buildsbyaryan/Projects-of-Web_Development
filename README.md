@@ -70,6 +70,8 @@ cd aryans-world
 start index.html 
 ```
 
+---
+
 ### 🔧 Customization Guide
 
 You can modify and enhance this project by:
@@ -82,6 +84,8 @@ You can modify and enhance this project by:
     <li>🧱 Integrating frameworks like React or Next.js for a dynamic experience.</li>
     <li>⚙️ Adding animations using AOS or GSAP for smoother transitions.</li>
 </ul>
+
+---
 
 ### 📦 Deployment
 
@@ -96,6 +100,8 @@ git commit -m "Updated content"
 git push origin main
 ```
 
+---
+
 <section>
 
 ### 📄 License
@@ -106,6 +112,9 @@ and customized by Aryan Sharma.
 Please credit the author when redistributing publicly.
 
 </section>
+
+---
+
 <section>
 
 ### 👨‍💻 Author
@@ -127,3 +136,4 @@ Please credit the author when redistributing publicly.
 🖤 Thanks for visiting Aryan’s World!
 
 </section>
+---
