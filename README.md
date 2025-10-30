@@ -87,6 +87,9 @@ You can modify and enhance this project by:
 
 <section>
 
+---
+
+
 ### 📄 License
 
 This project is based on the Tech2 etc HTML CSS eCommerce Template
