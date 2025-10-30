@@ -56,7 +56,7 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/aryans-world.git 
+git clone https://github.com/buildsbyaryan/Aryans-World.git
 
 ```
 ### 2️⃣ Navigate to the Project Directory
@@ -85,29 +85,13 @@ You can modify and enhance this project by:
     <li>⚙️ Adding animations using AOS or GSAP for smoother transitions.</li>
 </ul>
 
----
-
-### 📦 Deployment
-
-This website is deployed on <a href="https://vercel.com/aryans-projects-9582d33a">Vercel</a>.
-Push updates to the main branch, and Vercel will automatically redeploy.
-
-To redeploy manually:
-
-```bash
-git add .
-git commit -m "Updated content"
-git push origin main
-```
-
----
-
 <section>
 
 ### 📄 License
 
 This project is based on the Tech2 etc HTML CSS eCommerce Template
 and customized by Aryan Sharma.
+
 🪪 You are free to use, modify, or share for educational or personal purposes.
 Please credit the author when redistributing publicly.
 
@@ -130,10 +114,9 @@ Please credit the author when redistributing publicly.
 
 🐙 GitHub: https://github.com/buildsbyaryan
 
-🔗 LinkedIn: https://linkedin.com/in/aryan-sharma-07
+🔗 LinkedIn: https://linkedin.com/in/aryan-sharma-a27b3322a/
 
 ⭐ If you like this project, don’t forget to give it a star on GitHub!
 🖤 Thanks for visiting Aryan’s World!
 
 </section>
----
