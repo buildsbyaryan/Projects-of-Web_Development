@@ -555,6 +555,9 @@ footer .copyright {
 }
 
 @media (max-width: 799px) {
+  .section-p1 {
+    padding: 40px 40px;
+}
   .header-list-nav ul {
     display: flex;
     flex-direction: column;
@@ -606,4 +609,10 @@ footer .copyright {
     background-position: top 30% right 30%;
   }
 
+  #features {
+    justify-content: center;
+  }
+  #features .f-box {
+    margin: 15px 15px;
+  }
 }
