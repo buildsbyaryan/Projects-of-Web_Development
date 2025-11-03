@@ -90,6 +90,10 @@ body {
   align-items: center;
 }
 
+#close{
+  display: none;
+}
+
 .header-list {
   display: flex;
 }
