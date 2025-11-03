@@ -90,7 +90,7 @@ body {
   align-items: center;
 }
 
-#close{
+#close {
   display: none;
 }
 
@@ -589,14 +589,21 @@ footer .copyright {
     padding-left: 20px;
   }
 
-  #close{
+  #close {
+    display: initial;
     position: absolute;
     top: 30px;
     left: 30px;
     color: #222;
     font-size: 24px;
   }
-  #lg-bag{
+  #lg-bag {
     display: none;
   }
+  #hero {
+    height: 70vh;
+    padding: 0 80px;
+    background-position: top 30% right 30%;
+  }
+
 }
